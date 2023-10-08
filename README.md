@@ -12,4 +12,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Formulário de Pesquisa  foi feito a partir das aulas de design responsivo para web da FreeCodeCamp no seu primeiro projeto de certificação
 
-- [Acesse o projeto finalizado, online](https://gustavojeri.github.io/about-me/)
+- [Acesse o projeto finalizado, online](https://gustavojeri.github.io/formulario-de-pesquisa/)
